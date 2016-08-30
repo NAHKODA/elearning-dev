@@ -1,4 +1,4 @@
-    <header class="sb-page-header" style="padding-top: 60px;padding-bottom: 60px;text-align: left;font-size: 24px;padding: 30px 15px;color: rgba(255,255,255,.8);background-color: #08b06d;margin-bottom: 40px;font-size: 20px;background-image: url('<?php print base_url() ?>assets/media/images/background.png');position: relative;">
+    <header class="sb-page-header" style="padding-top: 60px;padding-bottom: 60px;text-align: left;font-size: 24px;padding: 30px 15px;color: rgba(255,255,255,.8);background-color: #08b06d;margin-bottom: 40px;font-size: 20px;background-image: url('<?php print base_url() ?>assets/media/images/bg.png');position: relative;">
         <div class="container">
             <p style="padding-top:60px;font-size:40px;color:#fff"><i class="fa fa-unlock-alt"></i> Login Dosen</p>
             <p style="margin-left:0px;color:#fff"><i class="icon-book-open"></i> Login Account Dosen</p>
